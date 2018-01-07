@@ -1,3 +1,4 @@
+#! /usr/bin/python
 from scapy.all import *
 
 MAC_ADDRESS = 'B47C9CE547C7' # Amazon Charmin Dash Button MAC Address
