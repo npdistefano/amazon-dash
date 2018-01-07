@@ -12,7 +12,7 @@ ifttt_url_button = 'https://maker.ifttt.com/trigger/button_pressed/with/key/' + 
 
 # Replace this MAC addresses and nickname with your own
 macs = {
-    'B47C9CE547C7' : 'charmin'
+    'b4:7c:9c:e5:47:c7' : 'charmin'
 }
 
 # Trigger a IFTTT URL. Body includes JSON with timestamp values.
